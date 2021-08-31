@@ -1,6 +1,6 @@
-- 👋 Olá, sou o Kelwin. Um futuro dev que já é designer, que ama games e artes marciais.
-- 👀 Estou interessado em aprender usar o GitHub enquanto aprendo a desenvolver.
-- 🌱 No momento estou estudando HTML e CSS.
-- 💞️ Estou desenvolvendo meu primeiro projeto, fictício, para complementar meus estudos.
-- 📫 Me sigam no instagram @kelwin.hollunder
+- 👋 Hello, im Kelwin. A future dev who actually is a Graphic Designer, who loves games and martial arts.
+- 👀 Im really interested in use git and github as also im learn programing.
+- 🌱 At moment i am learning HTML and CSS.
+- 💞️ Im developing my first project, fictitious, to complement my studies.
+- 📫 Follow me on instagram @kelwin.hollunder
 
