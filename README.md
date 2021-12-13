@@ -1,6 +1,6 @@
 - 👋 Hello, im Kelwin. A future dev who actually is a Graphic Designer, who loves games and martial arts.
 - 👀 Im really interested in use git and github as also im learn programing.
-- 🌱 At moment i am learning Front-End and logic, from the School Alura.
-- 💞️ At moment im understande a bit of HTML, CSS and JS.
+- 🌱 At moment i am learning Front-End and logic, from the Alura School.
+- 💞️ At moment im understande HTML, CSS and a bit from Js.
 - 📫 Follow me on instagram @kelwin.hollunder
-
+- 📫 Im looking for my first real experience of work.
