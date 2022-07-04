@@ -1,7 +1,7 @@
-- 👋 Hello, im Kelwin. A future dev who actually is a Graphic Designer, who loves games and martial arts.
-- 👀 Im really interested in use git and github as also im learn programing.
-- 🌱 At moment i am learning React and testing my skills in some ideas.
-- 💞️ At moment im understande HTML, CSS, JS and typescript.
-- 📫 Follow me on instagram @kelwin.hollunder
-- 📫 Im looking for my first real experience of work.
+- 👋 Hello, im Kelwin. A front-end dev who is in love with Javascript.
+- 👀 Im looking for my first experience as a Front-end developer.
+- 🌱 At moment I am learning React and testing my skills in some ideas.
+- 💞️ I understand HTML, CSS, JS, Typescript and many designers tools... Figma, photoshop and illustrator.
+- 📫 Follow me on instagram @kelwin.hollunder, I talk about tecnology and design :)
+- 📫 Im looking for my first real experience of work in a team.
 https://www.linkedin.com/in/kelwin-hollunder/
