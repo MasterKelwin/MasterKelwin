@@ -6,3 +6,5 @@ Furthermore, I am a learning enthusiast and a firm believer in the philosophy of
 
 If you are interested and want to know more, I have a profile on Instagram where I regularly talk about technology, and very soon I will also have a YouTube channel.
 @HomemJavascript (Just PT-BR language)
+
+Current working with: Angular, Nest, Adonis. Deep diving into Ecmascript/Javascript/Typescript.
